@@ -18,8 +18,8 @@ Follow these steps to set up and run the interactive data visualization applicat
 
 Clone the repository containing the application source code:
 ```bash
-git clone <repository_url>
-cd interactive-data-visualization-app
+git clone https://github.com/arjunprakash027/interactive-data-visualization-application.git
+cd interactive-data-visualization-application
 ```
 
 ### 2. Setup the Backend (Flask API)
